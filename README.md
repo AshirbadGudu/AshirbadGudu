@@ -1,7 +1,7 @@
 
 [![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQGQsIUIkWBieA/profile-displaybackgroundimage-shrink_350_1400/0/1625971533763?e=1635379200&v=beta&t=lduy9kHybylujCKSBtmhMh3zW2OKTcScPgH_f-LJQrM)](https://www.linkedin.com/in/ashirbad-panigrahi/)
 
-<h1 align="center">Hi 👋, I'm Ashirbad Panigrahi</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>, I'm Ashirbad Panigrahi</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashirbadgudu&label=Profile%20views&color=0e75b6&style=flat" alt="ashirbadgudu" /> </p>
 <p align="left"> <a href="https://twitter.com/ashirbadgudu" target="blank"><img src="https://img.shields.io/twitter/follow/ashirbadgudu?logo=twitter&style=for-the-badge" alt="ashirbadgudu" /></a> </p>
