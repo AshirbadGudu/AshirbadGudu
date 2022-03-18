@@ -1,5 +1,5 @@
 
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQFUMcVUYlmKAg/profile-displaybackgroundimage-shrink_350_1400/0/1640664504277?e=1646265600&v=beta&t=5EvOdGc3aL9e52QMc6NcIibDpuoV-bMjM2D0gMNS5TE)](https://www.linkedin.com/in/ashirbad-panigrahi/)
+[![AshirbadPanigrahi](https://media-exp1.licdn.com/dms/image/C4D16AQFUMcVUYlmKAg/profile-displaybackgroundimage-shrink_350_1400/0/1640664504277?e=1652918400&v=beta&t=zcPjlRi5mFjGK7scIuX6_YeaqJaKrd8MRp1SaDnRxq4)](https://www.linkedin.com/in/ashirbad-panigrahi/)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>, I'm Ashirbad Panigrahi</h1>
 
