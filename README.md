@@ -8,7 +8,7 @@
 
 My name is Ashirbad Panigrahi and I'm a self-taught passionate FullStack developer. I'm from from India, and currently working at SearchingYard.
 
-<h3 align="left">Connect with me:</h3>
+## ⚡ Connect with me:
 
 <p align="left">
     <a href="https://dev.to/ashirbadgudu" target="blank">
@@ -69,7 +69,8 @@ My name is Ashirbad Panigrahi and I'm a self-taught passionate FullStack develop
     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
+## 🖥 Languages and Tools:
 
 <p align="left"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -91,9 +92,17 @@ My name is Ashirbad Panigrahi and I'm a self-taught passionate FullStack develop
     <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> 
 </p>
 
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/AshirbadGudu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshirbadGudu&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Ashirbad's Lang Stats" />
+</a>
+<a href="https://github.com/AshirbadGudu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AshirbadGudu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ashirbad's GitHub Stats" />
+</a>
+
+
+## &#x1f4c8; AshirbadGudu's Github activity graph
+
 [![AshirbadGudu's Github activity graph](https://activity-graph.herokuapp.com/graph?username=AshirbadGudu&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true)](https://github.com/AshirbadGudu)
-
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashirbadgudu&show_icons=true&locale=en&layout=compact&langs_count=8" alt="ashirbadgudu" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AshirbadGudu&show_icons=true&hide=contribs,issues" alt="ashirbadgudu" /></p>
-
-
