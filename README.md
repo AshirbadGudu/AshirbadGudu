@@ -1,23 +1,71 @@
 
-[![AshirbadPanigrahi](https://media-exp1.licdn.com/dms/image/C4D16AQFUMcVUYlmKAg/profile-displaybackgroundimage-shrink_350_1400/0/1640664504277?e=1652918400&v=beta&t=zcPjlRi5mFjGK7scIuX6_YeaqJaKrd8MRp1SaDnRxq4)](https://www.linkedin.com/in/ashirbad-panigrahi/)
+[![AshirbadPanigrahi](https://raw.githubusercontent.com/AshirbadGudu/AshirbadGudu/main/banner.jpeg)](https://www.linkedin.com/in/ashirbad-panigrahi/)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>, I'm Ashirbad Panigrahi</h1>
 
-<p align="left">
- <a align="right" href="https://twitter.com/ashirbadgudu" target="blank"><img src="https://img.shields.io/twitter/follow/ashirbadgudu?logo=twitter&style=for-the-badge" alt="ashirbadgudu" /></a> 
+<p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=ashirbadgudu&label=Profile%20views&color=0e75b6&style=flat" alt="ashirbadgudu" /> 
- </p>
+</p>
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://codepen.io/ashirbad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ashirbad" height="30" width="40" /></a>
-<a href="https://dev.to/ashirbadgudu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ashirbadgudu" height="30" width="40" /></a>
-<a href="https://twitter.com/ashirbadgudu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashirbadgudu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashirbad-panigrahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashirbad-panigrahi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14007866/ashirbad-panigrahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ashirbad-panigrahi" height="30" width="40" /></a>
-<a href="https://codesandbox.com/ashirbadgudu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="ashirbadgudu" height="30" width="40" /></a>
-<a href="https://fb.com/ashirbad.panigrahi.792" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashirbad.panigrahi.792" height="30" width="40" /></a>
-<a href="https://instagram.com/ashirbadapanigrahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashirbadapanigrahi" height="30" width="40" /></a>
+    <a href="https://dev.to/ashirbadgudu" target="blank">
+        <img 
+            align="center" 
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ashirbadgudu" 
+            height="30" width="40" 
+        />
+    </a>
+    <a href="https://linkedin.com/in/ashirbad-panigrahi" target="blank">
+        <img 
+            align="center" 
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashirbad-panigrahi" 
+            height="30" width="40" 
+        />
+    </a>
+    <a href="https://stackoverflow.com/users/14007866/ashirbad-panigrahi" target="blank">
+        <img 
+            align="center" 
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ashirbad-panigrahi" 
+            height="30" width="40" 
+        />
+    </a>
+    <a href="https://twitter.com/ashirbadgudu" target="blank">
+        <img 
+            align="center" 
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashirbadgudu" 
+            height="30" width="40" 
+        />
+    </a>
+    <a href="https://fb.com/ashirbad.panigrahi.792" target="blank">
+        <img 
+            align="center" 
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashirbad.panigrahi.792" 
+            height="30" width="40" 
+        />
+    </a>
+    <a href="https://instagram.com/ashirbadapanigrahi" target="blank">
+        <img 
+            align="center" 
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashirbadapanigrahi" 
+            height="30" width="40" 
+        />
+    </a>
+    <a href="https://codepen.io/ashirbad" target="blank">
+        <img 
+            align="center" 
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ashirbad" 
+            height="30" width="40" 
+        />
+    </a>
+    <a href="https://codesandbox.com/ashirbadgudu" target="blank">
+        <img 
+            align="center" 
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="ashirbadgudu" 
+            height="30" width="40" 
+        />
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
