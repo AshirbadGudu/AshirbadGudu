@@ -6,7 +6,15 @@
  <img src="https://komarev.com/ghpvc/?username=ashirbadgudu&label=Profile%20views&color=0e75b6&style=flat" alt="ashirbadgudu" /> 
 </p>
 
-My name is Ashirbad Panigrahi and I'm a self-taught passionate FullStack developer. I'm from from India, and currently working at SearchingYard.
+<p>
+ Ashirbad Panigrahi (Full-stack web and mobile app developer | IoT enthusiast)
+</p>
+
+- 👨‍💻 Experienced in React, Next.js, Node.js, and React Native.
+- 🤖 Developed IoT projects with C++ using Arduino IDE and ESP32.
+- 💻 Passionate about building innovative and user-friendly applications.
+
+Looking for new opportunities to collaborate and contribute to Open-source.
 
 ## ⚡ Connect with me:
 
